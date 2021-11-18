@@ -22,7 +22,6 @@ public class Main {
 
         while (!inputString.equals("")) {
 
-            System.out.println(inputString);
             current = inputString.charAt(0);
 
             if (current == 'A') {
