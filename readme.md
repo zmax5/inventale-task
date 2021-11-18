@@ -2,15 +2,13 @@
 
 There is no need in any additional extensions or plugins.
 
-Simply compilable with **javac** and runnable with **java**:
+Simply compilable with **javac**:
 
-> `javac` - javac -d out ./src/Task/Main.java
-> 
-> `java` - java ./out/Main
+> `javac` - javac -d compiled ./src/Task/Main.java
 
 To compile a **.jar** file:
 
-> `jar` - jar -cmf manifest.mf task.jar -C out .
+> `jar` - jar -cmf manifest.mf task.jar -C compiled .
 
 To open **.jar** file:
 
