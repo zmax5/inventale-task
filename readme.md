@@ -14,3 +14,4 @@ To compile a **.jar** file:
 
 To open **.jar** file:
 
+> `jar` - java -jar task.jar
